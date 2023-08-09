@@ -15,6 +15,7 @@ As a tech enthusiast with a background in architecture and sustainability, I am 
 
 # Contact me:
 📧 shima.naderii@gmail.com
+
 ![image](https://github.com/Archima20/Archima20/assets/116793955/d78a4c71-fde1-42cf-abe1-97fec16d2e6b) https://www.linkedin.com/in/shima-naderi/
 
 
