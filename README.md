@@ -13,6 +13,9 @@ As a tech enthusiast with a background in architecture and sustainability, I am 
 ![image](https://github.com/Archima20/Archima20/assets/116793955/c8b4f326-9bd2-4b9f-ad75-dec42fe29e72) ![image](https://github.com/Archima20/Archima20/assets/116793955/6a440340-9907-4e14-afa6-c09ef729a7c5) ![image](https://github.com/Archima20/Archima20/assets/116793955/6e81b4ca-774f-4175-95d4-417d20bff1ea)
  ![image](https://github.com/Archima20/Archima20/assets/116793955/3f29c610-831d-4811-9a0b-7c011a9ebf49) ![image](https://github.com/Archima20/Archima20/assets/116793955/6068de48-ecad-4cfa-ad46-dfc6e03d9757) ![image](https://github.com/Archima20/Archima20/assets/116793955/9a4e927d-2d20-4375-ae53-41702f52b906)  ![image](https://github.com/Archima20/Archima20/assets/116793955/cf3484a9-045f-4a0b-b5bc-5af8df6a1672)  ![image](https://github.com/Archima20/Archima20/assets/116793955/9cab8a14-6a10-4933-8821-3a1e5e1a581d) ![image](https://github.com/Archima20/Archima20/assets/116793955/700ebcf0-dd54-4427-a316-99e16d7ef35e)  ![image](https://github.com/Archima20/Archima20/assets/116793955/89482911-cb6e-4f84-bf5e-09d58cef1ffb)
 
+# Contact me:
+![image](https://github.com/Archima20/Archima20/assets/116793955/372de7f6-559b-419e-b1ec-ca1ec3fee61f)
+
 
 
 
