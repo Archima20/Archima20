@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Archima20/Archima20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I am a Software Engineer who loves Data Science🔧 
 
-Here are some ideas to get you started:
+▸my Stacks:
+html5 css3 react bootstrap npm github visualstudiocode php mysql laravel wordpress elementor woo yoast canva sketch figma adobexd adobephotoshop adobeillustrator adobeindesign Trello
 
-- 🔭 I’m currently working on HTML & CSS
-- 🌱 I’m currently learning full stack 
-- 👯 I’m looking to collaborate on F-5 projects
-- 🤔 I’m looking for help with learning python 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
