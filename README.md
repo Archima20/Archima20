@@ -1,6 +1,7 @@
-### Hi there 👋
+### 💙Welcome to my page💙
 
-👩‍💻 I am a Software Engineer who loves Data Science🔧 
+## 👩‍💻 I am a Software Engineer who loves Data Science🔧 
+
 
 # Technologies:
 
