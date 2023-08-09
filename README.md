@@ -7,9 +7,13 @@ As a tech enthusiast with a background in architecture and sustainability, I am 
 I'm a computer science Master`s student who is passionate about writing code, solving problems, and building software.
 
 💻 I  love coding.
+
 📗 I’m currently learning Python & R.
+
 🔧 I’m looking to collaborate with an innovative team.
+
 🧑‍💻 I want to become a Data Scientist.
+
 
 # Technologies:
 
