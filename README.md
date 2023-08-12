@@ -10,7 +10,7 @@ I'm a computer science Master`s student who is passionate about writing code, so
 
 📗 I’m currently learning Python & R.
 
-🔧 I’m looking to collaborate with an innovative team.
+🔧 I’m looking to collaborate with an innovative & supportive team.
 
 🧑‍💻 I want to become a Data Scientist.
 
