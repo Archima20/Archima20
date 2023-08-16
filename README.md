@@ -12,7 +12,7 @@ I'm a computer science Master`s student who is passionate about writing code, so
 
 🔧 I’m looking to collaborate with an innovative & supportive team.
 
-🧑‍💻 I want to become a Data Scientist.
+🧑‍💻 I want to become a Data Scientist and I am passionate about AI.
 
 
 #  💻 Technologies:
