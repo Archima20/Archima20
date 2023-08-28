@@ -8,7 +8,7 @@ I'm a computer science Master`s student who is passionate about writing code, so
 
 💻 I  love learning & teaching.
 
-📗 I’m currently learning Python & R.
+📗 I’m currently learning Python.
 
 🔧 I’m looking to collaborate with an innovative & supportive team.
 
