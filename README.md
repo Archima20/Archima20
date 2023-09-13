@@ -12,7 +12,7 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 🔧 I’m looking to collaborate with an innovative & supportive team.
 
-🧑‍💻 I want to become a Data Scientist and am passionate about AI solutions for business challenges.
+🧑‍💻 I want to become a Data Scientist & am passionate about AI solutions for business challenges.
 
 
 #  💻 Technologies:
