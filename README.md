@@ -6,7 +6,7 @@ As a tech enthusiast with a background in architecture and sustainability, I am 
 # About me: 
 I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
 
-💻 I  love learning & teaching
+💻 I  love learning & teaching.
 
 📗 I’m currently learning Python.
 
