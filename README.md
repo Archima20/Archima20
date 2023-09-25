@@ -10,7 +10,7 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 📗 I’m currently learning Python.
 
-🔧 I’m looking to collaborate with an innovative & supportive team. Finger cross!
+🔧 I’m looking to collaborate with an innovative & supportive team. 
 
 🧑‍💻 I want to become a Data Scientist & am passionate about AI solutions for business challenges.
 
