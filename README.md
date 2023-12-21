@@ -4,7 +4,7 @@
 As a tech enthusiast with a background in architecture and sustainability, I am driven to combine my design, technology, and data analytics expertise with programming languages. With hands-on experience in project management, I am passionate about supporting the successful execution of data-driven projects and AI and ensuring their implementation.
 
 # About me: 
-I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software!
+I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
 
 💻 I  love learning & teaching.
 
