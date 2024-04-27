@@ -1,6 +1,6 @@
 ### 💙💚 Welcome to my page 💚💙
 
-## 👩🏻‍💻👩🏻‍🏫 I am a Software Engineer who loves Data Science 📊📈 
+## 👩🏻‍💻👩🏻‍🏫 A Software Engineer who loves Data Science 📊📈 
 A tech-savvy with a background in architecture and sustainability, I am driven to combine my design, technology, and data analytics expertise with programming languages. With hands-on experience in project management, I am passionate about supporting the successful execution of data-driven and cloud projects ensuring their implementation.
 
 # About me: 
