@@ -1,7 +1,7 @@
 ### 💙💚 Welcome to my page 💚💙
 
 ## 👩🏻‍💻👩🏻‍🏫 A Software Engineer who loves Data Science 📊📈 
-A tech-savvy with a background in architecture and sustainability, I am driven to combine my design, technology, and data analytics expertise with programming languages. With hands-on experience in project management, I am passionate about supporting the successful execution of data-driven and cloud projects ensuring their implementation.
+A tech-savvy with a diverse background in architecture, sustainability and project management, I am driven to combine my design, technology, and data analytics expertise with programming languages. With hands-on experience in project management, I am passionate about supporting the successful execution of data-driven and cloud projects ensuring their implementation.
 
 # About me: 
 I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
