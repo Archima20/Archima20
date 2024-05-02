@@ -13,7 +13,7 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 🔧 I’m looking to collaborate with an innovative & supportive team. 
 
-🧑‍💻 I want to become a Data Scientist & am passionate about AI solutions for business challenges.
+🧑‍💻 I am actively pursuing AWS Cloud skills while striving to become a Data Scientist, driven by my passion for implementing AI solutions to address business challenges.
 
 
 #  💻 Technologies:
