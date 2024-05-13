@@ -4,7 +4,7 @@
 A tech-savvy with a diverse background, merging design, technology, and data analytics expertise with programming languages. Experienced in project management, dedicated to supporting successful data-driven and cloud projects. Proficient in customer service, project management, and committed to agile principles. Skilled in provisioning, configuring, automating, monitoring, and supporting enterprise technical services.
 
 # About me: 
-I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
+I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software
 
 
 💻 I  love learning & teaching.
