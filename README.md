@@ -1,11 +1,11 @@
 ### 💙💚 Welcome to my page 💚💙
 
 ## 👩🏻‍💻👩🏻‍🏫 A Software Engineer who loves Data Science 📊📈 
-Cloud-focused IT professional with expertise in full-stack development, data analysis, and Agile methodologies. Proven ability to deliver successful data-driven projects, manage cloud infrastructure, and support enterprise technical services. 
+Cloud-focused IT professional with expertise in full-stack development, data analysis, and Agile methodologies. Proven ability to deliver successful data-driven projects, manage cloud infrastructure, and support enterprise technical services.
 
 
 # About me:
-I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software. 
+I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
 
 
 💻 I  love learning & teaching.
