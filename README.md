@@ -17,7 +17,6 @@ I'm a computer science Master`s student passionate about writing code, solving p
 🧑‍💻 I am actively pursuing AWS Cloud skills while striving to become a Data Scientist, driven by my passion for implementing AI solutions to address business challenges.
 
 
-
 #  💻 Technologies:
 
 ![image](https://github.com/Archima20/Archima20/assets/116793955/abe714b3-d44a-4928-bef9-f421ec0b0c4a) ![image](https://github.com/Archima20/Archima20/assets/116793955/c1c00efd-07c4-4c7e-813e-8e579fb36dc6) ![image](https://github.com/Archima20/Archima20/assets/116793955/49c748a4-a807-42f6-b7a8-e4b5f77334d8) ![image](https://github.com/Archima20/Archima20/assets/116793955/6e8cd993-34a2-4fd4-8eb2-0ad049def2cc) ![image](https://github.com/Archima20/Archima20/assets/116793955/c2053fab-bdfb-40c2-9aaf-fd16fd9a0a34) ![image](https://github.com/Archima20/Archima20/assets/116793955/1127d2a9-7103-46ee-9938-b42611b4d4f7) ![image](https://github.com/Archima20/Archima20/assets/116793955/f87a654d-51f7-4af0-9a6c-051ecf55cc23) ![image](https://github.com/Archima20/Archima20/assets/116793955/5b5dbc63-5e70-4025-a076-dea793f7a9e4) ![image](https://github.com/Archima20/Archima20/assets/116793955/6acefc84-bcd1-4eeb-948d-487d93eef452) ![image](https://github.com/Archima20/Archima20/assets/116793955/5a284687-2083-43e3-a0d3-041ff4e53f38) 
