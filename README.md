@@ -1,6 +1,6 @@
 ### 💙💚 Welcome to my page 💚💙 
 
-## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️ 
+## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️    
 Cloud-focused IT professional with expertise in full-stack development, data analysis, and Agile methodologies. Proven ability to deliver successful data-driven projects, manage cloud infrastructure, and support enterprise technical services.  
 
 
