@@ -10,7 +10,7 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 💻 I  love learning & teaching.   
 
-📗 I’m currently learning Python and cybersecurity. 
+📗 I’m currently learning Python and cybersecurity.  
 
 🔧 I’m looking to collaborate with an innovative & supportive team.  
   
