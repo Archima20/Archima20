@@ -2,6 +2,7 @@
 
 ## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️    
 Cloud-focused IT professional with expertise in full-stack development, data analysis, AWS Cloud, and Agile methodologies. Proven ability to deliver successful data-driven projects, manage cloud infrastructure, and support enterprise technical services. 
+
  
 # About me:
 I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.  
