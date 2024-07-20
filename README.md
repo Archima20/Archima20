@@ -5,10 +5,10 @@ Highly motivated junior professional with a background in project management and
 
  
 # About me:
-I'm a computer science Master`s student passionate about writing code, solving problems, and creating user-friendly software.
+I'm a Master's student in Computer Science passionate about coding, problem-solving, and creating user-friendly software.
 
 
-💻 I love learning & teaching. 
+💻 Passionate about learning and teaching. I teach English and have over ten years of experience teaching architectural courses and software.
 
 📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam.
 
