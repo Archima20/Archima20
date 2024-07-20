@@ -1,7 +1,7 @@
 ### 💙💚 Welcome to my page 💚💙 
 
 ## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️    
-Cloud-focused IT professional with expertise in full-stack development, data analysis, AWS Cloud, and Agile methodologies. Proven ability to deliver successful data-driven projects, manage cloud infrastructure, and support enterprise technical services. 
+Highly motivated junior professional with a background in project management and full-stack development. Skilled in web application development, data pipelines, and cloud technologies.
 
  
 # About me:
@@ -10,11 +10,11 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 💻 I love learning & teaching. 
 
-📗 I’m currently learning Python and cybersecurity. 
+📗 I’m currently learning Python and Machine Learning. 
 
-🔧 I’m looking to collaborate with an innovative & supportive team.    
+🔧 Passionate about collaborating with international experts to deliver robust data and AI solutions using agile methodologies.  
   
-🧑‍💻 I am actively pursuing AWS Cloud skills while striving to become a Data Scientist, driven by my passion for implementing AI solutions to address business challenges. 
+🧑‍💻 Actively pursuing AWS Cloud skills and aspiring to become a Data Scientist. Passionate about leveraging AI solutions to solve business challenges.
 
 
 #  💻 Technologies:
