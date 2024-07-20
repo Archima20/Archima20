@@ -10,7 +10,7 @@ I'm a computer science Master`s student passionate about writing code, solving p
 
 💻 I love learning & teaching. 
 
-📗 I’m currently learning Python and Machine Learning. 
+📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam.
 
 🔧 Passionate about collaborating with international experts to deliver robust data and AI solutions using agile methodologies.  
   
