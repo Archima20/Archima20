@@ -12,9 +12,9 @@ I'm a Master's student in Computer Science passionate about coding, problem-solv
 
 📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam.
 
-🔧 Passionate about collaborating with international experts to deliver robust data and AI solutions using agile methodologies.  
+🔧 Passionate about collaborating with international experts to deliver robust data and AI solutions using agile methodologies. 
   
-🧑‍💻 Actively pursuing AWS Cloud skills and aspiring to become a Data Scientist. Passionate about leveraging AI solutions to solve business challenges. 
+🧑‍💻 Actively pursuing AWS Cloud skills and aspiring to become a Data Scientist. Passionate about leveraging AI solutions to solve business challenges.  
 
 
 #  💻 Technologies:
