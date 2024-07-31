@@ -9,7 +9,7 @@ I'm a Master's student in Computer Science passionate about coding, problem-solv
 
 💻 Passionate about learning and teaching. I teach English and have over ten years of experience teaching architectural courses and software.
 
-📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam.
+📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam. 
 
 🔧 Passionate about collaborating with international experts to deliver robust data and AI solutions using agile methodologies. 
   
