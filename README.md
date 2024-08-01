@@ -1,7 +1,7 @@
 ### 💙💚 Welcome to my page 💚💙 
 
 ## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️    
-Highly motivated junior professional with a background in project management and full-stack development. Skilled in web application development, data pipelines, and cloud technologies.
+Highly motivated junior professional with a background in project management and full-stack development. Skilled in web application development, data pipelines, and cloud technologies.  
 
 # About me:
 I'm a Master's student in Computer Science passionate about coding, problem-solving, and creating user-friendly software.
