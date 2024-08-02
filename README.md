@@ -1,13 +1,13 @@
 ### 💙💚 Welcome to my page 💚💙 
 
-## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️   
+## 👩🏻‍💻👩🏻‍🏫 A Software Engineer delves into Data Science 📊📈☁️ 
 Highly motivated junior professional with a background in project management and full-stack development. Skilled in web application development, data pipelines, and cloud technologies.  
 
 # About me:
 I'm a Master's student in Computer Science passionate about coding, problem-solving, and creating user-friendly software.
 
 
-💻 Passionate about learning and teaching. I teach English and have over ten years of experience teaching architectural courses and software.
+💻 Passionate about learning and teaching. I teach English and have over ten years of experience teaching architectural courses and software. 
 
 📗 Currently learning Python and Machine Learning, and studying for the AWS Cloud Practitioner exam. 
 
